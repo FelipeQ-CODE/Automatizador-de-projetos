@@ -1,0 +1,13 @@
+#Entrar no site da https://pje1g.trf3.jus.br/pje/ConsultaPublica/listView.seam
+#Digitar o Numero do OAB e selecionar estado
+#Clicar em pesquisar
+#entrar em acda um dos processos
+#Extrair o numero do processo e a data da distribuição
+#Extrair e guardar todas as ultimas movimentaçoes 
+#Guardar tudo nmo excel separados por processos
+
+
+
+selecionando a tag = campo desejado.
+//tag[@atributo='valor']
+//input[@id='fPP:Decoration:numeroOAB']

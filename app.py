@@ -37,7 +37,5 @@ opcoes_estados.select_by_visible_text('SP')
 botao_pesquisar = driver.find_element(By.XPATH,"//input[@id='fPP:searchProcessos']")
 botao_pesquisar.click()
 sleep(10)
-#entrar em acda um dos processos
-#Extrair o numero do processo e a data da distribuição
-#Extrair e guardar todas as ultimas movimentaçoes 
-#Guardar tudo nmo excel separados por processos
+
+#Fim do projeto o site da PJE nao da mais acesso a automação!
