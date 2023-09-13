@@ -1,1 +1,1 @@
-# Breve automação para loguin na centra do aluno da UNICID
+# Breve automação para login na centra do aluno da UNICID
