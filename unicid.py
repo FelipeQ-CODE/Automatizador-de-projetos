@@ -16,7 +16,7 @@ from time import sleep
 import pyautogui
 
 numero_rgm = 35717424
-senha_aluno = 11111
+senha_aluno = 46706
 
 #Abrir o navegador
 driver = webdriver.Chrome()
@@ -56,14 +56,3 @@ digita_senha = driver.find_element(By.XPATH,"//input[@id='txt-senha']")
 #Digita a senha declarada no inicio 
 digita_senha.send_keys(senha_aluno)
 sleep(10)
-
-#Clicar em nao sou um robo
-pyautogui.click()
-sleep(5)
-
-#Clicar em proceguir
-botao_proceguir = driver.find_element(By.XPATH,"//button[@class='               btn btn-primary btn-sm               no-margin               pull-right               btn-curso btn-color          ']")
-botao_proceguir.click()
-sleep(10)
-#entrar no blackboard
-
