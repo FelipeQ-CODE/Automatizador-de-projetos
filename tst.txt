@@ -1,10 +1,11 @@
-#Entrar no site da https://pje1g.trf3.jus.br/pje/ConsultaPublica/listView.seam
-#Digitar o Numero do OAB e selecionar estado
-#Clicar em pesquisar
-#entrar em acda um dos processos
-#Extrair o numero do processo e a data da distribuição
-#Extrair e guardar todas as ultimas movimentaçoes 
-#Guardar tudo nmo excel separados por processos
+#entra no site da faculdade Unicid
+#Seleciona a opção Area do aluno
+#entra na area do aluno
+#entra no site da area do aluno
+#Digita loguim 
+#Digita a senha
+
+#Fim do programa devido o reCAPTCHA
 
 
 
